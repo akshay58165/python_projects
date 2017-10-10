@@ -1,0 +1,17 @@
+code it
+
+1. make a list of things, prefix "an" or "a" accordingly
+2. count from 1 to 100, list even, odd, prime numbers
+3. write a paragraph, count the number of words, characters, sentences, paragraphs
+4. find in page the chars searched, highlight them
+5. initiate a program from terminal, it should ask name and welcome it
+6. go into a folder and find its properties
+7. go into a folder and delete any copy of any file in any of the subfolders
+8. run a mp3 file from your system at the desired time for desired interval, allow a trigger to stop
+9. find which ports on your system are open, if not open, open one and close it again
+10. connect to another system and initialize a chat, then stop it
+11. enter a google search term and print the results without getting the browser window interfered
+12. take input from user and save it in a plain text database (like a tracker or recorder)
+13. create a pypi package to connect android phone with your program
+14. create a graphical representation of the data collected from the user
+15. create a ai
